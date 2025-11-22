@@ -1,0 +1,38 @@
+[
+{
+  "nome":"JavaScript",
+  "descricao":"O JS é a linguagem da web",
+  "ano":"1995",
+  "link":"https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"
+},
+{
+  "nome":"Python",
+  "descricao":"O Python é a linguagem da ciência de dados e IA.",
+  "ano":"1991",
+  "link":"https://docs.python.org/3/"
+},
+{
+  "nome":"Java",
+  "descricao":"Uma linguagem de programação popular para aplicações empresariais e de grande escala.",
+  "ano":"1995",
+  "link":"https://www.java.com/"
+},
+{
+  "nome":"C#",
+  "descricao":"Linguagem da Microsoft para desenvolvimento de aplicações .NET, jogos e software para Windows.",
+  "ano":"2000",
+  "link":"https://docs.microsoft.com/pt-br/dotnet/csharp/"
+},
+{
+  "nome":"Go",
+  "descricao":"Linguagem de programação do Google, focada em simplicidade, eficiência e concorrência.",
+  "ano":"2009",
+  "link":"https://go.dev/"
+},
+{
+  "nome":"Rust",
+  "descricao":"Linguagem focada em segurança de memória e desempenho, ideal para sistemas de baixo nível.",
+  "ano":"2010",
+  "link":"https://www.rust-lang.org/"
+}
+]
